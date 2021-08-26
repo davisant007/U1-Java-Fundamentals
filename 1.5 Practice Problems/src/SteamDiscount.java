@@ -5,5 +5,10 @@ public class SteamDiscount {
      */
     public static void main(String[] args) {
         double gameCost = 60.00;
+
+
+
+
+
     }
 }

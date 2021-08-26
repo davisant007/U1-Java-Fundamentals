@@ -11,10 +11,7 @@ public class CalculatingDistance {
 
 
         int mph = 55;
-        int minutes = 45;
-
-
-
+        double hours = .45 ;
 
 
         System.out.println("The distance is " );
