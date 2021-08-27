@@ -10,11 +10,11 @@ public class CalculatingDistance {
     public static void main(String[] args) {
 
 
-        int mph = 55;
+        int kmh = 55;
         double hours = .45 ;
 
-
-        System.out.println("The distance is " );
+        double distance = kmh * hours;
+        System.out.println("The distance is " + distance );
 
 
 
